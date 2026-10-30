@@ -1,0 +1,2 @@
+# PSeInt (.psc) no es un lenguaje que GitHub reconozca: sin esto lo muestra como Papyrus
+*.psc linguist-detectable=false
